@@ -1,0 +1,28 @@
+# 运行环境与本地数据（绝不上传）
+venv/
+env/
+__pycache__/
+*.py[cod]
+romasha_memory_db/
+romasha_test_sandbox_db/
+logs/
+*.log
+*.txt
+config.json
+
+# —— 重要：模型与素材请自备，仓库不含任何游戏资源 ——
+world_data/
+voice_ref/
+web/
+*.moc3
+*.model3.json
+*.motion3.json
+*.physics3.json
+*.cdi3.json
+*.rpgmvp
+*.rpgmvo
+*.assets
+*.png
+*.jpg
+*.wav
+*.mp3
